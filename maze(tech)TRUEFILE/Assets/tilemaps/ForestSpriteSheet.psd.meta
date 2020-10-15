@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 3056955f31c8aec46ac8200340eafaba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3392485870198787083
+    second: ForestSpriteSheet_0
+  - first:
+      213: 7188168443303554006
+    second: ForestSpriteSheet_0
+  - first:
+      213: -2692537722206672053
+    second: ForestSpriteSheet_1
+  - first:
+      213: 1840965764944805903
+    second: ForestSpriteSheet_2
+  - first:
+      213: 8359143913553058527
+    second: ForestSpriteSheet_3
+  - first:
+      213: -1934610536508252882
+    second: ForestSpriteSheet_4
+  - first:
+      213: -6480788159993385712
+    second: ForestSpriteSheet_5
+  - first:
+      213: -3087800463980869898
+    second: ForestSpriteSheet_6
+  - first:
+      213: -1521333859974276622
+    second: ForestSpriteSheet_7
+  - first:
+      213: 2581000123143039071
+    second: ForestSpriteSheet_8
+  - first:
+      213: -7477676556099482935
+    second: ForestSpriteSheet_9
+  - first:
+      213: 7392766329509057287
+    second: ForestSpriteSheet_10
+  - first:
+      213: -446873228089956193
+    second: ForestSpriteSheet_11
+  - first:
+      213: -8179639283679140801
+    second: ForestSpriteSheet_12
+  - first:
+      213: -7727004551678381106
+    second: ForestSpriteSheet_13
+  - first:
+      213: -1401938044259250229
+    second: ForestSpriteSheet_14
+  - first:
+      213: 248489377211968003
+    second: ForestSpriteSheet_15
+  - first:
+      213: -9090942329840167173
+    second: ForestSpriteSheet_16
+  - first:
+      213: 6101470681647261545
+    second: ForestSpriteSheet_17
+  - first:
+      213: 9065917726564528159
+    second: ForestSpriteSheet_18
+  - first:
+      213: 4066125136818325142
+    second: ForestSpriteSheet_19
+  - first:
+      213: 5338278023554383048
+    second: ForestSpriteSheet_20
+  - first:
+      213: 8081401064132929463
+    second: ForestSpriteSheet_21
+  - first:
+      213: -2985018776333073176
+    second: ForestSpriteSheet_22
+  - first:
+      213: -2498041418410535875
+    second: ForestSpriteSheet_23
+  - first:
+      213: -4124359258636412128
+    second: ForestSpriteSheet_24
+  - first:
+      213: 8115030038679107384
+    second: ForestSpriteSheet_25
+  - first:
+      213: -2144641513847822708
+    second: ForestSpriteSheet_26
+  - first:
+      213: -856054705440726959
+    second: ForestSpriteSheet_27
+  - first:
+      213: -4307894246146211841
+    second: ForestSpriteSheet_28
+  - first:
+      213: 9087377591443251294
+    second: ForestSpriteSheet_29
+  - first:
+      213: -2394113821660729434
+    second: ForestSpriteSheet_30
+  - first:
+      213: -2362900120624638012
+    second: ForestSpriteSheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForestSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 63}
+        - {x: -72, y: 63}
+        - {x: -72, y: 33}
+        - {x: -95, y: 33}
+      - - {x: -32, y: 32}
+        - {x: -32, y: 64}
+        - {x: 0, y: 64}
+        - {x: 0, y: 32}
+      - - {x: 42, y: 34}
+        - {x: 42, y: 64}
+        - {x: 64, y: 64}
+        - {x: 64, y: 34}
+      - - {x: 32, y: -32}
+        - {x: 32, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f44143187be0d0800000000000000
+      internalID: -3392485870198787083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

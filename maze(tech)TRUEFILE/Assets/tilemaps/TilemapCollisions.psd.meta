@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 37633d9b0f7f14a499529532e42a18bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2140328404880637255
+    second: TilemapCollisions_0
+  - first:
+      213: -8678733401934345283
+    second: TilemapCollisions_1
+  - first:
+      213: -767709545458989668
+    second: TilemapCollisions_2
+  - first:
+      213: -5573219709608534657
+    second: TilemapCollisions_3
+  - first:
+      213: -3562929204670295007
+    second: TilemapCollisions_4
+  - first:
+      213: -6591897484038841218
+    second: TilemapCollisions_5
+  - first:
+      213: -8965885902076067085
+    second: TilemapCollisions_6
+  - first:
+      213: -7420418548213882704
+    second: TilemapCollisions_7
+  - first:
+      213: -9173379436953214265
+    second: TilemapCollisions_8
+  - first:
+      213: 3604988559849051703
+    second: TilemapCollisions_9
+  - first:
+      213: -7447242735635536795
+    second: TilemapCollisions_10
+  - first:
+      213: 6146318325483811427
+    second: TilemapCollisions_11
+  - first:
+      213: -6892139526180251908
+    second: TilemapCollisions_12
+  - first:
+      213: -5189302977006103030
+    second: TilemapCollisions_13
+  - first:
+      213: 226678266769203540
+    second: TilemapCollisions_14
+  - first:
+      213: -5388403774245143889
+    second: TilemapCollisions_15
+  - first:
+      213: -1642521052118082581
+    second: TilemapCollisions_16
+  - first:
+      213: 2196297505886998568
+    second: TilemapCollisions_17
+  - first:
+      213: 1903943247520498465
+    second: TilemapCollisions_18
+  - first:
+      213: 3452315068969997458
+    second: TilemapCollisions_19
+  - first:
+      213: -3924147491745999209
+    second: TilemapCollisions_20
+  - first:
+      213: 2916171761750474609
+    second: TilemapCollisions_21
+  - first:
+      213: -3162059867740909698
+    second: TilemapCollisions_22
+  - first:
+      213: -5028832965934402799
+    second: TilemapCollisions_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilemapCollisions_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 5}
+        - {x: -5, y: 16}
+        - {x: 5, y: 16}
+        - {x: 16, y: 5}
+        - {x: 16, y: -5}
+        - {x: 5, y: -16}
+        - {x: -5, y: -16}
+        - {x: -16, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db6932859f3bd10800000000000000
+      internalID: 2140328404880637255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -16}
+        - {x: -16, y: -5}
+        - {x: -16, y: 5}
+        - {x: -5, y: 16}
+        - {x: 5, y: 16}
+        - {x: 16, y: 5}
+        - {x: 16, y: -5}
+        - {x: 5, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc26de3f1fe8780800000000000000
+      internalID: -8678733401934345283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -16}
+        - {x: -11, y: -4}
+        - {x: -11, y: 4}
+        - {x: -2, y: 16}
+        - {x: 7, y: 16}
+        - {x: 16, y: 6}
+        - {x: 16, y: -6}
+        - {x: 7, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958d346c3c8855f0800000000000000
+      internalID: -767709545458989668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -16}
+        - {x: -16, y: -6}
+        - {x: -16, y: 6}
+        - {x: -7, y: 16}
+        - {x: 2, y: 16}
+        - {x: 11, y: 4}
+        - {x: 11, y: -4}
+        - {x: 2, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd399c332f7a2b0800000000000000
+      internalID: -5573219709608534657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12413cbf3ceed8ec0800000000000000
+      internalID: -3562929204670295007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cd214e920e484a0800000000000000
+      internalID: -6591897484038841218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c21e7646c29380800000000000000
+      internalID: -8965885902076067085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0edfc35a0650990800000000000000
+      internalID: -7420418548213882704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e786310c91b080800000000000000
+      internalID: -9173379436953214265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: 14}
+        - {x: 11, y: 14}
+        - {x: 11, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7365621cefd770230800000000000000
+      internalID: 3604988559849051703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 15}
+        - {x: 11, y: 15}
+        - {x: 11, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e55a603416a890800000000000000
+      internalID: -7447242735635536795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bfe2d3fb1c4550800000000000000
+      internalID: 6146318325483811427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 1}
+        - {x: 16, y: -5}
+        - {x: 6, y: -15}
+        - {x: 2, y: -15}
+        - {x: 2, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -15}
+        - {x: -16, y: -6}
+        - {x: -16, y: 2}
+        - {x: -2, y: 15}
+        - {x: 3, y: 15}
+        - {x: 3, y: 13}
+        - {x: 9, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d897fd933a50a0800000000000000
+      internalID: -6892139526180251908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -5}
+        - {x: 6, y: -15}
+        - {x: 2, y: -15}
+        - {x: 2, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -15}
+        - {x: -16, y: -6}
+        - {x: -16, y: 2}
+        - {x: -7, y: 12}
+        - {x: -2, y: 15}
+        - {x: 3, y: 15}
+        - {x: 3, y: 13}
+        - {x: 9, y: 13}
+        - {x: 16, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069cafbf64ebf7b0800000000000000
+      internalID: -5189302977006103030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516411cea2552300800000000000000
+      internalID: 226678266769203540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7eb9f05b8835b0800000000000000
+      internalID: -5388403774245143889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb96683ec79439e0800000000000000
+      internalID: -1642521052118082581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209873f1f0da7e10800000000000000
+      internalID: 2196297505886998568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 16}
+        - {x: 16, y: 8}
+        - {x: 16, y: -13}
+        - {x: 14, y: -15}
+        - {x: 4, y: -15}
+        - {x: 1, y: -11}
+        - {x: -1, y: -15}
+        - {x: -13, y: -15}
+        - {x: -16, y: -12}
+        - {x: -16, y: 11}
+        - {x: -11, y: 14}
+        - {x: -3, y: 14}
+        - {x: -3, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12386fccb4a2c6a10800000000000000
+      internalID: 1903943247520498465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945faa934619ef20800000000000000
+      internalID: 3452315068969997458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: -10}
+        - {x: 8, y: -16}
+        - {x: -13, y: -16}
+        - {x: -15, y: -13}
+        - {x: -15, y: -4}
+        - {x: -11, y: -1}
+        - {x: -14, y: 1}
+        - {x: -16, y: 9}
+        - {x: -12, y: 16}
+        - {x: 11, y: 16}
+        - {x: 14, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965d34b5a0aa89c0800000000000000
+      internalID: -3924147491745999209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f792b44c2587820800000000000000
+      internalID: 2916171761750474609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc8c8bd4b1e14d0800000000000000
+      internalID: -3162059867740909698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapCollisions_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b4b6bf0ff53ab0800000000000000
+      internalID: -5028832965934402799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
