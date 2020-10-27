@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Pickup
   - Box
-  - Cross
   layers:
   - Default
   - TransparentFX
